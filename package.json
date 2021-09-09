@@ -24,7 +24,8 @@
     "extends": []
   },
   "scripts": {
-    "rimraf": "rimraf"
+    "rimraf": "rimraf",
+    "info:commit": "node scripts/info-commit.js"
   },
   "devDependencies": {
     "@babel/core": "^7.15.0",
